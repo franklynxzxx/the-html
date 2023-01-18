@@ -1,0 +1,81 @@
+body{
+    min-width: 80px;
+    max-width: 1920px;
+    align-items: cnter;
+}
+img{
+    height: 70px;
+    width: 70px;
+    vertical-align: middle;
+}
+h2{ 
+    display: inline;
+    font-weight: 300;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;}
+
+    .inputbox{
+        position: relative;
+        width: 250px;
+        
+
+    }
+    .inputbox input{
+        width: 0%;
+        height: 50px;
+        padding: 7px;
+        border: 1px solid rgb(202, 192, 172);
+        outline: none;
+        font-size: 1em;
+        
+    
+    }
+    .inputbox span{
+        position: absolute;
+        l
+        font-size: 25px;
+        padding: 1px;
+        color:rgb(88, 86, 80);
+        pointer-events: none;}
+
+     .inputbox input:valid ~ span,
+     .inputbox input:focus ~ span{color: black;
+        transform: none
+
+
+
+     }
+
+     
+ h3{
+     font-size: medium;
+     position: relative;
+     left: 230px;
+     color: rgb(31, 185, 231)
+     
+ }
+ input[type="submit"]{align-items:flex-end;
+    position: relative;
+    left: 60px;
+    width: 220px;
+    height: 45px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(13, 153, 235);
+    border: 5px;
+    border-radius: 10px;
+   font-size: 15px;
+font-weight: 700;
+gap: 30px;
+}
+    p{font-size: 40px;
+    font-weight: 300px;}
+    
+    .high{color: rgb(57, 191, 214);}
+
+    h4{
+        font-weight: 200px;
+        font-size: medium;
+        position: relative;
+        left: 85px;
+    }
+    .highly{color: rgb(31, 185, 231)}
