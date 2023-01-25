@@ -1,0 +1,106 @@
+
+
+
+img{
+    width: 40px;
+    height: 40px;
+    margin: 24px;
+    vertical-align: middle;
+}
+h2{
+    display: inline;
+    position: relative;
+    font-size: 20px;
+    text-combine-upright: 40px;
+    left: -19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    color: beige;
+
+}
+body{
+    background-color: rgb(7, 13, 44);
+    
+    
+
+}
+h1{
+    color: bisque;
+    position: relative;
+    left: 125px;
+    font-size: 20px;
+}
+p{
+    color: blue;
+    position: relative;
+    left: 175px;
+    font-size: 20px;
+}
+fieldset{
+    background-color: whitesmoke;
+    width: 18em;
+    height: 278px;
+    margin: 52px;
+    border: 10px;
+    border-radius: 7px
+}
+.inputbox{
+    position: relative;
+    left: 0px;
+    font-size: 14px;
+    font-weight: 600;
+
+
+     
+}
+
+.inputbox input{
+    width: 96%;
+    height: 30px;
+    border-radius: 4px;
+    border: 1px solid rgb(148, 136, 121);
+    
+
+    
+    
+    
+    font-size: 1em;
+}
+input[type="submit"]{
+    width: 100%;
+    height: 42px;
+    background-color: rgb(20, 23, 170);
+    border: 20px;
+    border-radius: 4px;
+    font-size: 90%;
+    color: beige
+    
+}
+h4{
+    font-size: 14px;
+    color: rgb(40, 78, 247);
+    position: absolute;
+    left: 70px;
+    vertical-align: text-top;
+    
+}
+h6{position: absolute;
+    display: inline; 
+    left: 165px;
+    color: rgb(129, 94, 47);
+    
+    
+    font-size: 14px
+}
+.close{
+    position: relative;
+    left: 45px;
+    vertical-align: middle;
+}
+h5{
+    display: inline;
+    position: relative;
+    left: -5px;
+    color: beige;
+}
+.move{color: blue}
